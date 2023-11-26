@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 axios.defaults.headers.common['x-api-key'] =
-  'live_n9RYsu6xXJu2x7fSIMilBDonMvDcz944KTSvauIhyOHhdhcDyRpeUJa4t2le08Oa';
+  'live_FZdLOQGvauAlFWiIeVKHUdIMYNrZHvDie5nVjad79WjcpJ9b4geWSCG2C4AKNoDD';
 const API_URL = 'https://api.thecatapi.com/v1/breeds';
 const SEARCH_URL = `https://api.thecatapi.com/v1/images/search`;
 
