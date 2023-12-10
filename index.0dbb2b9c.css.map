@@ -1,1 +1,0 @@
-{"mappings":"ACAA,wBAGA","sources":["index.0dbb2b9c.css","src/css/style.css"],"sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #e6e7f2;\n}\n\n/*# sourceMappingURL=index.0dbb2b9c.css.map */\n","* {\n  box-sizing: border-box;\n}\nbody {\n  background-color: #e6e7f2;\n}\n"],"names":[],"version":3,"file":"index.0dbb2b9c.css.map"}
