@@ -30,7 +30,7 @@ function createCatMarkup(arr) {
           0: { name, temperament, description },
         },
       }) => `<img src="${url}" alt="${name}" width="800" height="500" />
-  <div>
+  <div class="cat-container>
   <h1 class="title">${name}</h1>
   <p class="description">${description}</p>
   <h2>Temperament:</h2>
